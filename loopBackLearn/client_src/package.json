@@ -1,0 +1,22 @@
+{
+  "name": "client_src",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "andile"
+  ],
+  "author": "andile",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "semantic-ui-react": "^0.83.0"
+  }
+}
