@@ -4,8 +4,8 @@ import { Input, Button, Icon, Menu, Container } from 'semantic-ui-react';
 const About = () => (
     <Layout>
             <div>
-                <h1>About Learning some nextJS</h1>
-                <p>application about learning some nextJS</p>
+                <h1>SFEBE SFEBE SFEBE SFEBE</h1>
+                <p>Maricón Maricón Maricón Maricón Maricón Maricón</p>
             </div>
     </Layout>
 );
